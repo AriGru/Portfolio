@@ -1,0 +1,14 @@
+body {
+  font-family: 'Open Sans Condensed', sans-serif;
+  background-image: url(images/old_moon.png);
+}
+
+
+
+.smaller-text {
+  font-weight: 100;
+}
+
+.row-space {
+  margin-top: 80px;
+}
